@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xnucade
-- 👀 I’m interested in Python, C++, JS Exploiting aaaaaaaand you :). 
+- 👀 I’m interested in Python, C++, JS, .Py 
 - 🌱 I’m currently learning Python Automation.
 - 💞️ I’m looking to collaborate on anything .py 
 - 📫 How to reach me email @ xnucade@gmail.com, Or join my discord. Just go to my website |  Kadeiscoding.com
