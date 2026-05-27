@@ -1,6 +1,6 @@
 # Hey, I'm Cade 👋
 
-Self-taught developer and tinkerer based in Kentucky. I build things across a pretty wide stack — from Python scripts and Discord bots to web apps, game mods, and self-hosted infrastructure. Most of my projects start with curiosity and end with something I actually use day to day.
+Self-taught developer and tinkerer based in REDACTED. I build things across a pretty wide stack — from Python scripts and Discord bots to web apps, game mods, and self-hosted infrastructure. Most of my projects start with curiosity and end with something I actually use day to day.
 
 ## What I work with
 
