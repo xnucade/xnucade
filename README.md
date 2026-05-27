@@ -14,7 +14,7 @@ Self-taught developer and tinkerer based in REDACTED. I build things across a pr
 A few things I've been building:
 
 - **[Vortex](https://vortex.kadeslab.com)** — A torrent search front-end with a Material You 3 design. Runs on Cloudflare Pages with a Workers backend to handle scraping server-side.
-- **Home Lab** — A self-hosted server stack on a Raspberry Pi 5. Nextcloud, Vaultwarden, AdGuard Home, and more — all tunneled securely through Cloudflare with zero open ports.
+- **Home Lab** — A self-hosted server stack on a Raspberry Pi 5. Nextcloud, Vaultwarden, AdGuard Home, and more — all tunneled securely through Cloudflare.
 - **Cart Siege** — A two-team siege game in s&box (Facepunch's successor to Garry's Mod). Attackers in golf carts with cannons, defenders with RPGs, destructible castle.
 
 More at **[dev.kadeslab.com](https://dev.kadeslab.com)**
